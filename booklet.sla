@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="14" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="279.432" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="14" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="1" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="096569" RGB="#096569"/>
+        <COLOR NAME="0B8913" RGB="#0b8913"/>
+        <COLOR NAME="138388" RGB="#138388"/>
+        <COLOR NAME="18B222" RGB="#18b222"/>
+        <COLOR NAME="2D8D92" RGB="#2d8d92"/>
+        <COLOR NAME="3ABE43" RGB="#3abe43"/>
+        <COLOR NAME="4BA5A9" RGB="#4ba5a9"/>
+        <COLOR NAME="5BD163" RGB="#5bd163"/>
+        <COLOR NAME="7BC7CB" RGB="#7bc7cb"/>
+        <COLOR NAME="89E38F" RGB="#89e38f"/>
+        <COLOR NAME="AE120E" RGB="#ae120e"/>
+        <COLOR NAME="AE580E" RGB="#ae580e"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="E2241F" RGB="#e2241f"/>
+        <COLOR NAME="E2791F" RGB="#e2791f"/>
+        <COLOR NAME="F14E4A" RGB="#f14e4a"/>
+        <COLOR NAME="F1974A" RGB="#f1974a"/>
+        <COLOR NAME="FF7370" RGB="#ff7370"/>
+        <COLOR NAME="FF9D9A" RGB="#ff9d9a"/>
+        <COLOR NAME="FFB270" RGB="#ffb270"/>
+        <COLOR NAME="FFC99A" RGB="#ffc99a"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="19" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Aller Regular" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="89E38F"/>
+        <STYLE NAME="Title" PARENT="Default Paragraph Style" ALIGN="1" LINESP="36" FONT="Munro Regular" FONTSIZE="36" FONTFEATURES="-clig,-liga" FCOLOR="096569"/>
+        <STYLE NAME="Link" PARENT="Default Paragraph Style" ALIGN="0" LINESP="26" FONT="Munro Regular" FONTSIZE="26" FONTFEATURES="-clig,-liga" FCOLOR="7BC7CB"/>
+        <STYLE NAME="Profile" PARENT="Default Paragraph Style" LINESP="12" VOR="6" DROP="0" Bullet="0" Numeration="0" FONTSIZE="10"/>
+        <STYLE NAME="Profile Name" PARENT="Default Paragraph Style" LINESP="22" NACH="5" FONT="Munro Regular" FONTSIZE="22"/>
+        <STYLE NAME="Profile Meta" PARENT="Profile" LINESP="12" VOR="0" FONTSIZE="12" FCOLOR="FFC99A"/>
+        <STYLE NAME="Bullet" INDENT="8.50393700787402" FIRST="-8.50393700787402" DROP="0" Bullet="1" BulletStr="• " Numeration="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Checkbox" LINESP="22" INDENT="19.8425196850394" FIRST="-19.8425196850394" VOR="4" NACH="4" DROP="0" Bullet="1" BulletStr="☐ " Numeration="0" FONT="Arial Unicode MS Regular" FONTSIZE="18" FONTFEATURES="-clig" LANGUAGE="en_GB"/>
+        <STYLE NAME="Heading 1" PARENT="Default Paragraph Style" LINESP="21" VOR="6" NACH="4" FONT="Aller Bold" FONTSIZE="16" FONTFEATURES="-clig"/>
+        <STYLE NAME="Heading 2" PARENT="Default Paragraph Style" LINESP="20" VOR="4" NACH="2" FONT="Aller Bold" FONTSIZE="13" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="3" openAction="">
+            <Fonts Name="Munro Regular"/>
+            <Subset Name="Aller Bold"/>
+            <Subset Name="Aller Regular"/>
+            <Subset Name="Archivo Narrow Bold"/>
+            <Subset Name="Arial Rounded MT Bold Regular"/>
+            <Subset Name="Arial Unicode MS Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="13" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="20" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="655.275590551181" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="655.275590551181" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1290.55118110236" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="1290.55118110236" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1925.82677165354" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="1925.82677165354" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3196.37795275591" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="3196.37795275591" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3831.65354330709" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.527559055118" PAGEYPOS="3831.65354330709" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4466.92913385827" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="100" YPOS="20" OwnPage="0" ItemID="41245568" PTYPE="2" WIDTH="420" HEIGHT="598" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.144927536231884" LOCALSCY="0.144927536231884" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/background.png" IRENDER="0" EMBEDDED="0" path="M0 0 L420 0 L420 598 L0 598 L0 0 Z" copath="M0 0 L420 0 L420 598 L0 598 L0 0 Z" OnMasterPage="Normal Left" gXpos="100" gYpos="148073866.299209" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="100" YPOS="20" OwnPage="1" ItemID="117624944" PTYPE="2" WIDTH="420" HEIGHT="600" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.144927536231884" LOCALSCY="0.144927536231884" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/background-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L420 0 L420 600 L0 600 L0 0 Z" copath="M0 0 L420 0 L420 600 L0 600 L0 0 Z" OnMasterPage="Normal Right" gXpos="28975190.3937481" gYpos="107676691.496067" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="100" YPOS="80" OwnPage="1" ItemID="66527568" PTYPE="6" WIDTH="419.027559055118" HEIGHT="494.775590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="0B8913" PLINEART="1" TransValue="0.3" path="M0 0 L419.028 0 L419.028 494.776 L0 494.776 L0 0 Z" copath="M0 0 L419.028 0 L419.028 494.776 L0 494.776 L0 0 Z" OnMasterPage="Normal Right" gXpos="27399864.4094895" gYpos="106488150.866146" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="100" YPOS="80" OwnPage="0" ItemID="41178304" PTYPE="6" WIDTH="419.027559055118" HEIGHT="494.775590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="0B8913" PLINEART="1" TransValue="0.3" path="M0 0 L419.028 0 L419.028 494.776 L0 494.776 L0 0 Z" copath="M0 0 L419.028 0 L419.028 494.776 L0 494.776 L0 0 Z" OnMasterPage="Normal Left" gXpos="100" gYpos="146878337.637793" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="519.527559055118" YPOS="20" OwnPage="0" ItemID="41252912" PTYPE="2" WIDTH="419.527559055118" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.28972897724801" LOCALSCY="0.28972897724801" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/cover_draft.png" IRENDER="0" EMBEDDED="0" path="M0 0 L419.528 0 L419.528 595.276 L0 595.276 L0 0 Z" copath="M0 0 L419.528 0 L419.528 595.276 L0 595.276 L0 0 Z" gXpos="519.527559055118" gYpos="20" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="675.275590551181" OwnPage="1" ItemID="112361520" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Welcome to CSS"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="160" YPOS="737.651968503937" OwnPage="1" ItemID="108912688" PTYPE="4" WIDTH="300" HEIGHT="416.52125984252" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.51598e-14 L300 416.521 L2.53665e-14 416.521 L0 0 Z" copath="M-13.5036 -18.751 L316.496 -18.751 L316.496 439.422 L-13.5036 439.422 L-13.5036 -18.751 Z" gXpos="160" gYpos="737.651968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="We are the society for all Computer Science students at the University of Bristol. Good news - you're now a member!"/>
+                <para/>
+                <para/>
+                <ITEXT CH="We organise socials, hackathons, talks from employers, discussion panels and a variety of other events. We help communicate student feedback and concerns to the department. "/>
+                <para/>
+                <para/>
+                <ITEXT CH="Our website has a job board for internships and graduate jobs, information on wellbeing and a series of tutorials on various topics."/>
+                <para/>
+                <para/>
+                <ITEXT CH="And perhaps most importantly, we buy a colossal amount of pizza for students."/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="You'll see us plenty over the next few weeks. We already have a bunch of events planned for Welcome Week and beyond. If you ever have any questions or feedback, come and talk to any member of the committee."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="204.992125984252" YPOS="1164.44881889764" OwnPage="1" ItemID="108915536" PTYPE="2" WIDTH="31" HEIGHT="30.724409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.120962241924484" LOCALSCY="0.120962241924484" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/heart pixel art 254x254.png" IRENDER="0" EMBEDDED="0" path="M0 0 L31 0 L31 30.7244 L0 30.7244 L0 0 Z" copath="M0 0 L31 0 L31 30.7244 L0 30.7244 L0 0 Z" gXpos="204.992125984252" gYpos="1164.44881889764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="245.661417322835" YPOS="1167.44881889764" OwnPage="1" ItemID="113336672" PTYPE="4" WIDTH="204" HEIGHT="23.724409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204 0 L204 23.7244 L0 23.7244 L0 0 Z" copath="M0 0 L204 0 L204 23.7244 L0 23.7244 L0 0 Z" gXpos="245.661417322835" gYpos="1167.44881889764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="cssbristol.co.uk"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="741.303937007874" OwnPage="2" ItemID="313055408" PTYPE="12" WIDTH="300.236220472441" HEIGHT="177.896062992126" FRTYPE="0" CLIPEDIT="0" ANNAME="Group7" groupWidth="300.236220472441" groupHeight="177.896062992126" groupClips="1" path="M0 0 L300.236 0 L300.236 177.896 L0 177.896 L0 0 Z" copath="M0 0 L300.236 0 L300.236 177.896 L0 177.896 L0 0 Z" gXpos="579.291338582677" gYpos="741.303937007874" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="805.651968503937" OwnPage="2" ItemID="113679088" PTYPE="4" WIDTH="300" HEIGHT="113.548031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 6.85881e-15 L300 113.548 L2.53665e-14 113.548 L0 0 Z" copath="M-13.5036 -5.11171 L316.496 -5.11171 L316.496 119.791 L-13.5036 119.791 L-13.5036 -5.11171 Z" gXpos="0" gYpos="64.3480314960634" gWidth="300.236220472441" gHeight="177.896062992126" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT FONTSIZE="10" CH="Hi everyone! I’m here to generally make sure things go according to plan. The society is here to help you have the best experience in the computer science department during your time at university so don’t hesitate to contact anyone on the committee if you’re having any problems. You can grab us if you see us walking by or email us. "/>
+                    <para PARENT="Profile"/>
+                    <ITEXT FONTSIZE="10" CH="I’m a big fan of maths, functional programming and playing really bad football with other computer scientists so hit me up if that’s your thing (you should join the football team)."/>
+                    <para PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="644.251968503937" YPOS="741.303937007874" OwnPage="2" ItemID="113287184" PTYPE="4" WIDTH="235.275590551181" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235.276 3.34327e-15 L235.276 55.348 L1.98937e-14 55.348 L0 0 Z" copath="M-10.5902 -2.49166 L248.213 -2.49166 L248.213 58.391 L-10.5902 58.391 L-10.5902 -2.49166 Z" gXpos="64.96062992126" gYpos="0" gWidth="300.236220472441" gHeight="177.896062992126" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT FONTSIZE="22" CH="Alessio Zakaria"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT FONTSIZE="12" CH="President"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT FONTSIZE="12" CH="president@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="741.303937007874" OwnPage="2" ItemID="113290032" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.122995625546807" LOCALSCY="0.122995625546807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/president.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300.236220472441" gHeight="177.896062992126" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="675.275590551181" OwnPage="2" ItemID="113681936" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Committee 2017-18"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="929.670078740158" OwnPage="2" ItemID="313029920" PTYPE="12" WIDTH="300.236220472441" HEIGHT="123.730708661417" FRTYPE="0" CLIPEDIT="0" ANNAME="Group6" groupWidth="300.236220472441" groupHeight="123.730708661417" groupClips="1" path="M0 0 L300.236 0 L300.236 123.731 L0 123.731 L0 0 Z" copath="M0 0 L300.236 0 L300.236 123.731 L0 123.731 L0 0 Z" gXpos="579.291338582677" gYpos="929.670078740158" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="996.017322834645" OwnPage="2" ItemID="118676320" PTYPE="4" WIDTH="300" HEIGHT="59.3826771653547" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 3.58698e-15 L300 59.3827 L2.53665e-14 59.3827 L0 0 Z" copath="M-13.5036 -2.67329 L316.496 -2.67329 L316.496 62.6476 L-13.5036 62.6476 L-13.5036 -2.67329 Z" gXpos="0" gYpos="64.3480314960624" gWidth="300.236220472441" gHeight="123.730708661417" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="I spend 80% of my time in MVB and 20% of my time in glitter. Heading up CSS Families this year with Iwan and am happy to chat about everything and anything! When you need to vent I'm your gal and will happily scream at your code with you. Make sure to come to the socials and get messy "/>
+                    <ITEXT FONT="Arial Unicode MS Regular" CH="❤️"/>
+                    <trail PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="644.251968503937" YPOS="931.669291338583" OwnPage="2" ItemID="113595056" PTYPE="4" WIDTH="235.275590551181" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235.276 3.34327e-15 L235.276 55.348 L1.98937e-14 55.348 L0 0 Z" copath="M-10.5902 -2.49166 L248.213 -2.49166 L248.213 58.391 L-10.5902 58.391 L-10.5902 -2.49166 Z" gXpos="64.96062992126" gYpos="0" gWidth="300.236220472441" gHeight="123.730708661417" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Eleanor Cox"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Secretary"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="secretary@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="931.669291338583" OwnPage="2" ItemID="113597904" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.122995625546807" LOCALSCY="0.122995625546807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/secretary.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300.236220472441" gHeight="123.730708661417" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="1381.22519685039" OwnPage="3" ItemID="313058240" PTYPE="12" WIDTH="300" HEIGHT="138.932283464567" FRTYPE="0" CLIPEDIT="0" ANNAME="Group10" groupWidth="300" groupHeight="138.932283464567" groupClips="1" path="M0 0 L300 0 L300 138.932 L0 138.932 L0 0 Z" copath="M0 0 L300 0 L300 138.932 L0 138.932 L0 0 Z" gXpos="159.763779527559" gYpos="1381.22519685039" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="1442.73858267716" OwnPage="3" ItemID="160390304" PTYPE="4" WIDTH="300" HEIGHT="77.4188976377966" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 4.67645e-15 L300 77.4189 L2.53665e-14 77.4189 L0 0 Z" copath="M-13.5036 -3.48525 L316.496 -3.48525 L316.496 81.6754 L-13.5036 81.6754 L-13.5036 -3.48525 Z" gXpos="0" gYpos="61.51338582677" gWidth="300" gHeight="138.932283464567" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="TODO"/>
+                    <trail/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="223.748031496063" YPOS="1381.22519685039" OwnPage="3" ItemID="113292784" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.984251968504" gYpos="0" gWidth="300" gHeight="138.932283464567" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Palvi Shah"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Outreach"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="outreach@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="160" YPOS="1381.22519685039" OwnPage="3" ItemID="113295632" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0576541994750656" LOCALSCY="0.0576541994750656" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/outreach.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="138.932283464567" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="1063.87086614173" OwnPage="2" ItemID="313052576" PTYPE="12" WIDTH="300.236220472441" HEIGHT="136.729133858267" FRTYPE="0" CLIPEDIT="0" ANNAME="Group8" groupWidth="300.236220472441" groupHeight="136.729133858267" groupClips="1" path="M0 0 L300.236 0 L300.236 136.729 L0 136.729 L0 0 Z" copath="M0 0 L300.236 0 L300.236 136.729 L0 136.729 L0 0 Z" gXpos="579.291338582677" gYpos="1063.87086614173" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="1063.87086614173" OwnPage="2" ItemID="113757728" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.122995625546807" LOCALSCY="0.122995625546807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/events.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300.236220472441" gHeight="136.729133858267" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="644.251968503937" YPOS="1063.87086614173" OwnPage="2" ItemID="113760480" PTYPE="4" WIDTH="235.275590551181" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235.276 3.34327e-15 L235.276 55.348 L1.98937e-14 55.348 L0 0 Z" copath="M-10.5902 -2.49166 L248.213 -2.49166 L248.213 58.391 L-10.5902 58.391 L-10.5902 -2.49166 Z" gXpos="64.96062992126" gYpos="0" gWidth="300.236220472441" gHeight="136.729133858267" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Samat Alpyssov"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Events"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="events@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="1128.21889763779" OwnPage="2" ItemID="113763328" PTYPE="4" WIDTH="300" HEIGHT="72.3811023622061" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 4.37215e-15 L300 72.3811 L2.53665e-14 72.3811 L0 0 Z" copath="M-13.5036 -3.25846 L316.496 -3.25846 L316.496 76.3606 L-13.5036 76.3606 L-13.5036 -3.25846 Z" gXpos="0" gYpos="64.3480314960614" gWidth="300.236220472441" gHeight="136.729133858267" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="I know perfectly that moving out of home and doing things by yourself for the first time is really hard and stressful, but CSS has lots of events full of fun, new friends and new experience for you. We are here to make your first year unforgettable. So, don’t sit at home, go out and take as much as possible from your life at University."/>
+                    <para PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="1552.73858267716" OwnPage="3" ItemID="313041248" PTYPE="12" WIDTH="300" HEIGHT="138.932283464577" FRTYPE="0" CLIPEDIT="0" ANNAME="Group9" groupWidth="300" groupHeight="138.932283464577" groupClips="1" path="M0 0 L300 0 L300 138.932 L0 138.932 L0 0 Z" copath="M0 0 L300 0 L300 138.932 L0 138.932 L0 0 Z" gXpos="159.763779527559" gYpos="1552.73858267716" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="1595.8094488189" OwnPage="3" ItemID="117833776" PTYPE="4" WIDTH="300" HEIGHT="77.4188976377966" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 4.67645e-15 L300 77.4189 L2.53665e-14 77.4189 L0 0 Z" copath="M-13.5036 -3.48525 L316.496 -3.48525 L316.496 81.6754 L-13.5036 81.6754 L-13.5036 -3.48525 Z" gXpos="0" gYpos="61.51338582678" gWidth="300" gHeight="138.932283464577" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="TODO"/>
+                    <trail/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="223.748031496063" YPOS="1534.29606299212" OwnPage="3" ItemID="113766176" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.984251968504" gYpos="0" gWidth="300" gHeight="138.932283464577" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Kyle Welch"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Officer"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="kyle.welch@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="160" YPOS="1534.29606299212" OwnPage="3" ItemID="113769024" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.119028024722716" LOCALSCY="0.119028024722716" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/kyle.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="138.932283464577" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="1785.76535433071" OwnPage="3" ItemID="114121392" PTYPE="4" WIDTH="300" HEIGHT="47.6503937007901" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.8783e-15 L300 47.6504 L2.53665e-14 47.6504 L0 0 Z" copath="M-13.5036 -2.14513 L316.496 -2.14513 L316.496 50.2702 L-13.5036 50.2702 L-13.5036 -2.14513 Z" gXpos="159.763779527559" gYpos="1150.48976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="I just finished my first year and if anything took me by surprise it's how open and friendly everyone was - particularly other CompScis. Get out there, meet new people and break the ‘socially inept geek’ mould. And get some sun, nerd. "/>
+                <para PARENT="Profile"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="160" YPOS="1724.25196850394" OwnPage="3" ItemID="114124240" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.103068959955425" LOCALSCY="0.103068959955425" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/webmaster.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="579.527559055118" gYpos="1088.97637795276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="223.748031496063" YPOS="1724.25196850394" OwnPage="3" ItemID="114126992" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="223.748031496063" gYpos="1088.97637795276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Louis Heath"/>
+                <para PARENT="Profile Name"/>
+                <ITEXT CH="Webmaster"/>
+                <para PARENT="Profile Meta"/>
+                <ITEXT CH="webmaster@cssbristol.co.uk"/>
+                <trail PARENT="Profile Meta"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="1381.22519685039" OwnPage="3" ItemID="313032752" PTYPE="12" WIDTH="300" HEIGHT="97.7748031496103" FRTYPE="0" CLIPEDIT="0" ANNAME="Group12" groupWidth="300" groupHeight="97.7748031496103" groupClips="1" path="M0 0 L300 0 L300 97.7748 L0 97.7748 L0 0 Z" copath="M0 0 L300 0 L300 97.7748 L0 97.7748 L0 0 Z" gXpos="579.291338582677" gYpos="1381.22519685039" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="1443.73858267716" OwnPage="4" ItemID="114129840" PTYPE="4" WIDTH="300" HEIGHT="35.2614173228403" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.12995e-15 L300 35.2614 L2.53665e-14 35.2614 L0 0 Z" copath="M-13.5036 -1.5874 L316.496 -1.5874 L316.496 37.2001 L-13.5036 37.2001 L-13.5036 -1.5874 Z" gXpos="0" gYpos="62.51338582677" gWidth="300" gHeight="97.7748031496103" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Here to be friends with everyone, making sure CSS is a welcoming and inclusive society. Frequently found in OMG and Lola Lo’s sipping Jäger Bombs, buy me one and I'll be your bae."/>
+                    <trail PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="643.275590551181" YPOS="1381.22519685039" OwnPage="4" ItemID="163117360" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.9842519685041" gYpos="0" gWidth="300" gHeight="97.7748031496103" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Iwan Cole"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Equality and Diversity"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="equality@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="1381.22519685039" OwnPage="4" ItemID="114132688" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.122995625546807" LOCALSCY="0.122995625546807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/equality.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="97.7748031496103" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="1509.4968503937" OwnPage="4" ItemID="313035584" PTYPE="12" WIDTH="300" HEIGHT="121.89606299213" FRTYPE="0" CLIPEDIT="0" ANNAME="Group13" groupWidth="300" groupHeight="121.89606299213" groupClips="1" path="M0 0 L300 0 L300 121.896 L0 121.896 L0 0 Z" copath="M0 0 L300 0 L300 121.896 L0 121.896 L0 0 Z" gXpos="579.291338582677" gYpos="1509.4968503937" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="1565.01732283465" OwnPage="4" ItemID="163114400" PTYPE="4" WIDTH="300" HEIGHT="60.3826771653501" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 3.64739e-15 L300 60.3827 L2.53665e-14 60.3827 L0 0 Z" copath="M-13.5036 -2.71831 L316.496 -2.71831 L316.496 63.7025 L-13.5036 63.7025 L-13.5036 -2.71831 Z" gXpos="0" gYpos="61.51338582678" gWidth="300" gHeight="121.89606299213" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Hey guys, I’m here to make sure everyone gets away from the computer screen every once in awhile and ventures outside.  There’ll be plenty of socials happening this year and definitely something for everyone to get involved in so don’t be shy, come on down and make some memories! "/>
+                    <trail PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="643.275590551181" YPOS="1503.50393700787" OwnPage="4" ItemID="163120320" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.9842519685041" gYpos="0" gWidth="300" gHeight="121.89606299213" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Katie Marquand"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Social and sports"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="sports@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="1503.50393700787" OwnPage="4" ItemID="163972096" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.07676564701257" LOCALSCY="0.07676564701257" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/sports.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="121.89606299213" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="1661.88976377952" OwnPage="4" ItemID="313049744" PTYPE="12" WIDTH="300" HEIGHT="169.41417322835" FRTYPE="0" CLIPEDIT="0" ANNAME="Group11" groupWidth="300" groupHeight="169.41417322835" groupClips="1" path="M0 0 L300 0 L300 169.414 L0 169.414 L0 0 Z" copath="M0 0 L300 0 L300 169.414 L0 169.414 L0 0 Z" gXpos="579.291338582677" gYpos="1661.88976377952" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="579.291338582677" YPOS="1714.4031496063" OwnPage="4" ItemID="163105520" PTYPE="4" WIDTH="300" HEIGHT="108.3968503937" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 6.54766e-15 L300 108.397 L2.53665e-14 108.397 L0 0 Z" copath="M-13.5036 -4.87982 L316.496 -4.87982 L316.496 114.357 L-13.5036 114.357 L-13.5036 -4.87982 Z" gXpos="0" gYpos="61.01732283465" gWidth="300" gHeight="169.41417322835" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Owner of perhaps the most impressive-sounding-yet-meaningless job title on the committee. Maybe we should rename it to ‘Trello wangler’ or ‘emailer of people’. "/>
+                    <para PARENT="Profile"/>
+                    <ITEXT CH="I’m a fan of music and strongly-typed functional programming. These are unconnected. As far as I know."/>
+                    <para PARENT="Profile"/>
+                    <ITEXT CH="Anyway - come say hi! We’re here to make sure you have the best year possible. Our job is easiest when people tell us how we can make that happen."/>
+                    <para PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="579.527559055118" YPOS="1653.38582677165" OwnPage="4" ItemID="115419744" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.122995625546807" LOCALSCY="0.122995625546807" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/vp.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="169.41417322835" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="643.275590551181" YPOS="1653.38582677165" OwnPage="4" ItemID="163108480" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.9842519685041" gYpos="0" gWidth="300" gHeight="169.41417322835" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Ross Gardiner"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Vice-President"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="vp@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2167.73622047244" OwnPage="5" ItemID="313046912" PTYPE="12" WIDTH="300" HEIGHT="167.27874015748" FRTYPE="0" CLIPEDIT="0" ANNAME="Group3" groupWidth="300" groupHeight="167.27874015748" groupClips="1" path="M0 0 L300 0 L300 167.279 L0 167.279 L0 0 Z" copath="M0 0 L300 0 L300 167.279 L0 167.279 L0 0 Z" gXpos="159.763779527559" gYpos="2167.73622047244" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="2208.40787401575" OwnPage="5" ItemID="163123280" PTYPE="4" WIDTH="300" HEIGHT="102.930708661419" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 6.21748e-15 L300 102.931 L2.53665e-14 102.931 L0 0 Z" copath="M-13.5036 -4.63375 L316.496 -4.63375 L316.496 108.59 L-13.5036 108.59 L-13.5036 -4.63375 Z" gXpos="0" gYpos="64.3480314960611" gWidth="300" gHeight="167.27874015748" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="I’m 3rd year CS student, and I was CSE student on my first and second year. My job is to ensure that you would get the information that you would need to know about CSS socials and events. Also, I’m the president of Computer Gaming Society (COGS) as I love to game! "/>
+                    <para PARENT="Profile"/>
+                    <ITEXT CH="You can find me watching anime or playing video games instead of working at MVB. If you want to chat, come and say hi, it doesn’t have to be about CS stuff."/>
+                    <trail PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="223.748031496063" YPOS="2144.05984251968" OwnPage="5" ItemID="163126240" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.984251968504" gYpos="0" gWidth="300" gHeight="167.27874015748" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Abdu Elturki"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Press and advertising"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="press@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="160" YPOS="2144.05984251968" OwnPage="5" ItemID="115422496" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.127824553108691" LOCALSCY="0.127824553108691" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/press.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="167.27874015748" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2365.55118110236" OwnPage="5" ItemID="313024256" PTYPE="12" WIDTH="300" HEIGHT="101.692913385824" FRTYPE="0" CLIPEDIT="0" ANNAME="Group2" groupWidth="300" groupHeight="101.692913385824" groupClips="1" path="M0 0 L300 0 L300 101.693 L0 101.693 L0 0 Z" copath="M0 0 L300 0 L300 101.693 L0 101.693 L0 0 Z" gXpos="159.763779527559" gYpos="2365.55118110236" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="2384.54488188977" OwnPage="5" ItemID="163111440" PTYPE="4" WIDTH="300" HEIGHT="37.3448818897627" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.2558e-15 L300 37.3449 L2.53665e-14 37.3449 L0 0 Z" copath="M-13.5036 -1.68119 L316.496 -1.68119 L316.496 39.3981 L-13.5036 39.3981 L-13.5036 -1.68119 Z" gXpos="0" gYpos="64.3480314960611" gWidth="300" gHeight="101.692913385824" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="CSS is an awesome society, and I'm here in a really vague and general way to lend a hand and try to make it even more awesome. "/>
+                    <trail PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="223.748031496063" YPOS="2320.1968503937" OwnPage="5" ItemID="163129200" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.984251968504" gYpos="0" gWidth="300" gHeight="101.692913385824" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="Luke Storry"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Officer"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="sports@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="160" YPOS="2320.1968503937" OwnPage="5" ItemID="114050240" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0750990929390271" LOCALSCY="0.0750990929390271" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/luke.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="101.692913385824" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2005.1968503937" OwnPage="5" ItemID="313038416" PTYPE="12" WIDTH="300" HEIGHT="132.0031496063" FRTYPE="0" CLIPEDIT="0" ANNAME="Group4" groupWidth="300" groupHeight="132.0031496063" groupClips="1" path="M0 0 L300 0 L300 132.003 L0 132.003 L0 0 Z" copath="M0 0 L300 0 L300 132.003 L0 132.003 L0 0 Z" gXpos="159.763779527559" gYpos="2005.1968503937" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="2069.04881889764" OwnPage="5" ItemID="163102560" PTYPE="4" WIDTH="300" HEIGHT="68.1511811023602" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 4.11664e-15 L300 68.151 L2.53665e-14 68.151 L0 0 Z" copath="M-13.5036 -3.06804 L316.496 -3.06804 L316.496 71.8983 L-13.5036 71.8983 L-13.5036 -3.06804 Z" gXpos="0" gYpos="63.85196850394" gWidth="300" gHeight="132.0031496063" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="It's hard to believe I’ve reached my fourth year - these years have flown by! "/>
+                    <para PARENT="Profile"/>
+                    <ITEXT CH="We hope you have a great first year at Bristol. We have lots of events lined up: Tech talks, Hackathons and Socials - we hope to see you there!"/>
+                    <para PARENT="Profile"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="160" YPOS="2005.1968503937" OwnPage="5" ItemID="166452096" PTYPE="2" WIDTH="63.748031496063" HEIGHT="55.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0648103413302845" LOCALSCY="0.0648103413302845" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/treasurer.jpg" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" path="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" copath="M0 0 L63.748 0 L63.748 55.348 L0 55.348 L0 0 Z" gXpos="0.236220472441005" gYpos="0" gWidth="300" gHeight="132.0031496063" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="223.748031496063" YPOS="2005.1968503937" OwnPage="5" ItemID="163132160" PTYPE="4" WIDTH="236.015748031496" HEIGHT="55.348031496063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.016 3.34327e-15 L236.016 55.348 L1.99563e-14 55.348 L0 0 Z" copath="M-10.6235 -2.49166 L248.994 -2.49166 L248.994 58.391 L-10.6235 58.391 L-10.6235 -2.49166 Z" gXpos="63.984251968504" gYpos="0" gWidth="300" gHeight="132.0031496063" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="John Griffith"/>
+                    <para PARENT="Profile Name"/>
+                    <ITEXT CH="Treasurer"/>
+                    <para PARENT="Profile Meta"/>
+                    <ITEXT CH="treasurer@cssbristol.co.uk"/>
+                    <trail PARENT="Profile Meta"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="650.416338582677" YPOS="2660.90551181102" OwnPage="8" ItemID="166463424" PTYPE="2" WIDTH="157.75" HEIGHT="154.598425196849" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.214720034995624" LOCALSCY="0.214720034995624" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/java.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L157.75 0 L157.75 154.598 L0 154.598 L0 0 Z" copath="M0 0 L157.75 0 L157.75 154.598 L0 154.598 L0 0 Z" gXpos="650.416338582677" gYpos="2660.90551181102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="583.791338582677" YPOS="2003.52755905511" OwnPage="6" ItemID="166474752" PTYPE="2" WIDTH="291" HEIGHT="125.799212598425" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.49527249054498" LOCALSCY="0.49527249054498" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/computer_problems.png" IRENDER="0" EMBEDDED="0" path="M0 0 L291 0 L291 125.799 L0 125.799 L0 0 Z" copath="M0 0 L291 0 L291 125.799 L0 125.799 L0 0 Z" gXpos="583.791338582677" gYpos="2003.52755905511" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="2144.4" OwnPage="6" ItemID="162104784" PTYPE="4" WIDTH="300" HEIGHT="311.099999999996" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 1.87919e-14 L300 311.099 L2.53665e-14 311.099 L0 0 Z" copath="M-13.5036 -14.0052 L316.496 -14.0052 L316.496 328.205 L-13.5036 328.205 L-13.5036 -14.0052 Z" gXpos="159.763779527559" gYpos="873.848818897641" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="We've got loads planned for this year. Here's a sneak preview:"/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Bar Crawl"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Xmas Pub Quiz"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Annual 24-hour hackathon"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Games Industry evening"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Tech Talks from Bloomberg, ARM, Creditcall and more"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Summer BBQ"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Spring Formal"/>
+                <para PARENT="Bullet"/>
+                <ITEXT CH="Socials"/>
+                <para PARENT="Bullet"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT FONT="Aller Regular" CH="Keep a close eye on "/>
+                <ITEXT FONT="Aller Bold" FEATURES="inherit" CH="cssbristol.co.uk/pages/freshers"/>
+                <ITEXT FONT="Aller Regular" CH=" to see what we're doing in the first couple of weeks."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="1945.82677165354" OwnPage="6" ItemID="162107744" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Our Calendar"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="2581.10236220472" OwnPage="7" ItemID="162092944" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Join In"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2656.13543307087" OwnPage="7" ItemID="162095904" PTYPE="4" WIDTH="300" HEIGHT="87.8645669291313" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 5.30743e-15 L300 87.8643 L2.53665e-14 87.8643 L0 0 Z" copath="M-13.5036 -3.95551 L316.496 -3.95551 L316.496 92.6957 L-13.5036 92.6957 L-13.5036 -3.95551 Z" gXpos="159.763779527559" gYpos="750.308661417324" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="We have a very lively Facebook group where students and alumni talk about technology news, events and the course. If you want to know what's going on, make sure you join!"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="162.59842519685" YPOS="2753.2468503937" OwnPage="7" ItemID="166466256" PTYPE="2" WIDTH="57.7322834645669" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.225516732283464" LOCALSCY="0.225516732283464" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/facebook-official.png" IRENDER="0" EMBEDDED="0" path="M0 0 L57.7323 0 L57.7323 59 L0 59 L0 0 Z" copath="M0 0 L57.7323 0 L57.7323 59 L0 59 L0 0 Z" gXpos="162.59842519685" gYpos="2753.2468503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ImageEffect Code="2" Param="89E38F&#10;100"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="245.661417322835" YPOS="1167.44881889764" OwnPage="1" ItemID="162098864" PTYPE="4" WIDTH="204" HEIGHT="23.724409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204 0 L204 23.7244 L0 23.7244 L0 0 Z" copath="M0 0 L204 0 L204 23.7244 L0 23.7244 L0 0 Z" gXpos="245.661417322835" gYpos="1167.44881889764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="cssbristol.co.uk"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="234.503937007874" YPOS="2767.61043307087" OwnPage="7" ItemID="162110704" PTYPE="4" WIDTH="204" HEIGHT="30.2728346456684" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L204 0 L204 30.2728 L0 30.2728 L0 0 Z" copath="M0 0 L204 0 L204 30.2728 L0 30.2728 L0 0 Z" gXpos="234.503937007874" gYpos="861.783661417326" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="/groups/CSSBristol"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2973.631496063" OwnPage="7" ItemID="162113664" PTYPE="4" WIDTH="300" HEIGHT="34.0377952755871" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.05604e-15 L300 34.0377 L2.53665e-14 34.0377 L0 0 Z" copath="M-13.5036 -1.53232 L316.496 -1.53232 L316.496 35.9093 L-13.5036 35.9093 L-13.5036 -1.53232 Z" gXpos="159.763779527559" gYpos="1067.80472440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="And we're on Twitter and GitHub too:"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="162.59842519685" YPOS="2892.56181102363" OwnPage="7" ItemID="166454928" PTYPE="2" WIDTH="57.7322834645669" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.225516732283464" LOCALSCY="0.225516732283464" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/facebook-official.png" IRENDER="0" EMBEDDED="0" path="M0 0 L57.7323 0 L57.7323 59 L0 59 L0 0 Z" copath="M0 0 L57.7323 0 L57.7323 59 L0 59 L0 0 Z" gXpos="162.59842519685" gYpos="2892.56181102363" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ImageEffect Code="2" Param="89E38F&#10;100"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="234.503937007874" YPOS="2906.92539370079" OwnPage="7" ItemID="162101824" PTYPE="4" WIDTH="230.850393700787" HEIGHT="30.2728346456684" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" copath="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" gXpos="234.503937007874" gYpos="1001.09862204725" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="/groups/BristolCS2017"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="2832.96220472441" OwnPage="7" ItemID="162087024" PTYPE="4" WIDTH="300" HEIGHT="45.0377952755871" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.72049e-15 L300 45.0377 L2.53665e-14 45.0377 L0 0 Z" copath="M-13.5036 -2.02752 L316.496 -2.02752 L316.496 47.5141 L-13.5036 47.5141 L-13.5036 -2.02752 Z" gXpos="159.763779527559" gYpos="927.135433070867" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="We've also created a group exclusively for this year's first-year students."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="177.031496062992" YPOS="3024" OwnPage="7" ItemID="166469088" PTYPE="2" WIDTH="28.8661417322835" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.112758366141732" LOCALSCY="0.112758366141732" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/github-square.png" IRENDER="0" EMBEDDED="0" path="M0 0 L28.8661 0 L28.8661 30 L0 30 L0 0 Z" copath="M0 0 L28.8661 0 L28.8661 30 L0 30 L0 0 Z" gXpos="177.031496062992" gYpos="3024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ImageEffect Code="2" Param="89E38F&#10;100"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="177.031496062992" YPOS="3066" OwnPage="7" ItemID="166457760" PTYPE="2" WIDTH="28.8661417322835" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.112758366141732" LOCALSCY="0.112758366141732" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/twitter-square.png" IRENDER="0" EMBEDDED="0" path="M0 0 L28.8661 0 L28.8661 30 L0 30 L0 0 Z" copath="M0 0 L28.8661 0 L28.8661 30 L0 30 L0 0 Z" gXpos="177.031496062992" gYpos="3066" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <ImageEffect Code="2" Param="89E38F&#10;100"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="234.503937007874" YPOS="3026.69822834646" OwnPage="7" ItemID="162116624" PTYPE="4" WIDTH="230.850393700787" HEIGHT="30.2728346456684" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" copath="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" gXpos="234.503937007874" gYpos="1120.87145669291" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="/cssbristol"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="234.503937007874" YPOS="3068.69822834646" OwnPage="7" ItemID="162089984" PTYPE="4" WIDTH="230.850393700787" HEIGHT="30.2728346456684" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" copath="M0 0 L230.85 0 L230.85 30.2728 L0 30.2728 L0 0 Z" gXpos="234.503937007874" gYpos="1162.87145669291" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="@cssbristol"/>
+                <trail PARENT="Link"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="2581.10236220472" OwnPage="8" ItemID="162137344" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Advice"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="2635.07874015748" OwnPage="8" ItemID="162140304" PTYPE="4" WIDTH="339.527559055118" HEIGHT="17.204724409447" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 17.2047 L0 17.2047 L0 0 Z" copath="M0 0 L339.528 0 L339.528 17.2047 L0 17.2047 L0 0 Z" gXpos="140" gYpos="729.251968503939" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="18" FCOLOR="096569" FSHADE="100" CH="(of mixed seriousness)"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="2825.80472440945" OwnPage="8" ItemID="162143264" PTYPE="4" WIDTH="300" HEIGHT="15.1952755905504" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 9.17866e-16 L300 15.1952 L2.53665e-14 15.1952 L0 0 Z" copath="M-13.5036 -0.684063 L316.496 -0.684063 L316.496 16.0308 L-13.5036 16.0308 L-13.5036 -0.684063 Z" gXpos="159.763779527559" gYpos="919.977952755907" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Don't mine Bitcoin on lab computers"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="2609.56692913386" OwnPage="8" ItemID="162146224" PTYPE="4" WIDTH="339.527559055118" HEIGHT="17.204724409447" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 17.2047 L0 17.2047 L0 0 Z" copath="M0 0 L339.528 0 L339.528 17.2047 L0 17.2047 L0 0 Z" gXpos="140" gYpos="703.740157480316" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="14" CH="from Facebook"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="2860.69165354331" OwnPage="8" ItemID="162119584" PTYPE="4" WIDTH="300" HEIGHT="36.0818897637801" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.17952e-15 L300 36.0817 L2.53665e-14 36.0817 L0 0 Z" copath="M-13.5036 -1.62434 L316.496 -1.62434 L316.496 38.0658 L-13.5036 38.0658 L-13.5036 -1.62434 Z" gXpos="159.763779527559" gYpos="954.864881889766" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Sleep eight hours a night, eat three good meals a day, and socialise to a reasonable degree"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="2972.61669291339" OwnPage="8" ItemID="162149184" PTYPE="4" WIDTH="300" HEIGHT="37.6692913385805" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.27541e-15 L300 37.6691 L2.53665e-14 37.6691 L0 0 Z" copath="M-13.5036 -1.69581 L316.496 -1.69581 L316.496 39.7405 L-13.5036 39.7405 L-13.5036 -1.69581 Z" gXpos="159.763779527559" gYpos="1066.78992125985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Don't let the state of your code affect the state of your mind"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="2916.46519685039" OwnPage="8" ItemID="162125504" PTYPE="4" WIDTH="300" HEIGHT="36.45984251969" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.20235e-15 L300 36.4598 L2.53665e-14 36.4598 L0 0 Z" copath="M-13.5036 -1.64136 L316.496 -1.64136 L316.496 38.4645 L-13.5036 38.4645 L-13.5036 -1.64136 Z" gXpos="159.763779527559" gYpos="1010.63842519686" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Start preparing your CSS pub quiz team name now"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="3067.31653543307" OwnPage="8" ItemID="162122544" PTYPE="4" WIDTH="300" HEIGHT="37.4992125984204" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.26513e-15 L300 37.4991 L2.53665e-14 37.4991 L0 0 Z" copath="M-13.5036 -1.68815 L316.496 -1.68815 L316.496 39.561 L-13.5036 39.561 L-13.5036 -1.68815 Z" gXpos="159.763779527559" gYpos="1161.48976377953" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Learning to code is 90% time+practice and 10% going to lectures"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="3029.97763779528" OwnPage="8" ItemID="162131424" PTYPE="4" WIDTH="300" HEIGHT="17.6472440944904" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 1.06598e-15 L300 17.6472 L2.53665e-14 17.6472 L0 0 Z" copath="M-13.5036 -0.794446 L316.496 -0.794446 L316.496 18.6175 L-13.5036 18.6175 L-13.5036 -0.794446 Z" gXpos="159.763779527559" gYpos="1124.15086614174" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="It's not a bug.. it's a feature!"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3268.32440944881" OwnPage="9" ItemID="312995936" PTYPE="12" WIDTH="300" HEIGHT="64.6755905511905" FRTYPE="0" CLIPEDIT="0" ANNAME="Group1" groupWidth="300" groupHeight="64.6755905511905" groupClips="1" path="M0 0 L300 0 L300 64.6756 L0 64.6756 L0 0 Z" copath="M0 0 L300 0 L300 64.6756 L0 64.6756 L0 0 Z" gXpos="159.763779527559" gYpos="3268.32440944881" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="159.763779527559" YPOS="3268.32440944881" OwnPage="9" ItemID="162134384" PTYPE="4" WIDTH="300" HEIGHT="24.4472440944896" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 1.47673e-15 L300 24.4472 L2.53665e-14 24.4472 L0 0 Z" copath="M-13.5036 -1.10057 L316.496 -1.10057 L316.496 25.7914 L-13.5036 25.7914 L-13.5036 -1.10057 Z" gXpos="0" gYpos="0" gWidth="300" gHeight="64.6755905511905" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="You will never understand Haskell"/>
+                    <trail PARENT="Default Paragraph Style"/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="196.377952755906" YPOS="3296.67086614173" OwnPage="9" ItemID="162128464" PTYPE="4" WIDTH="263.385826771653" HEIGHT="36.3291338582703" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L263.386 2.19445e-15 L263.386 36.3291 L2.22706e-14 36.3291 L0 0 Z" copath="M-11.8555 -1.63547 L277.869 -1.63547 L277.869 38.3266 L-11.8555 38.3266 L-11.8555 -1.63547 Z" gXpos="36.614173228347" gYpos="28.3464566929201" gWidth="300" gHeight="64.6755905511905" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT CH="and if you start to, you're too far gone. Unsavable. "/>
+                    <trail PARENT="Default Paragraph Style"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3355.20535433071" OwnPage="9" ItemID="166490928" PTYPE="4" WIDTH="300" HEIGHT="150.400000000001" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 9.08488e-15 L300 150.399 L2.53665e-14 150.399 L0 0 Z" copath="M-13.5036 -6.77075 L316.496 -6.77075 L316.496 158.67 L-13.5036 158.67 L-13.5036 -6.77075 Z" gXpos="159.763779527559" gYpos="814.10299212598" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="If you ever run into something stressing you out, like an irritating bug or a bad coursework grade, just take a step back and breathe for a second. Take a break. Go for a walk. Talk with some friends. In a few years time, you will look back and wonder why you even spent any time worrying about it. It's only first year - not the end of the world. Take it easy."/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3527.81070866141" OwnPage="9" ItemID="166505728" PTYPE="4" WIDTH="300" HEIGHT="16.5149606299301" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 9.97582e-16 L300 16.5149 L2.53665e-14 16.5149 L0 0 Z" copath="M-13.5036 -0.743473 L316.496 -0.743473 L316.496 17.423 L-13.5036 17.423 L-13.5036 -0.743473 Z" gXpos="159.763779527559" gYpos="986.708346456702" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Learn Git basics in the first week"/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3566.53102362205" OwnPage="9" ItemID="166508688" PTYPE="4" WIDTH="300" HEIGHT="36.5322834645604" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.20672e-15 L300 36.5321 L2.53665e-14 36.5321 L0 0 Z" copath="M-13.5036 -1.64462 L316.496 -1.64462 L316.496 38.5409 L-13.5036 38.5409 L-13.5036 -1.64462 Z" gXpos="159.763779527559" gYpos="1025.42866141732" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="70% is a top grade now. Adjust your targets and workload accordingly."/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3625.26866141731" OwnPage="9" ItemID="166493888" PTYPE="4" WIDTH="300" HEIGHT="35.2755905511904" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.13081e-15 L300 35.2755 L2.53665e-14 35.2755 L0 0 Z" copath="M-13.5036 -1.58804 L316.496 -1.58804 L316.496 37.2151 L-13.5036 37.2151 L-13.5036 -1.58804 Z" gXpos="159.763779527559" gYpos="1084.1662992126" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Remember to do something outside the department."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.763779527559" YPOS="3682.74960629921" OwnPage="9" ItemID="166482048" PTYPE="4" WIDTH="300" HEIGHT="57.0503937007902" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 3.44612e-15 L300 57.0502 L2.53665e-14 57.0502 L0 0 Z" copath="M-13.5036 -2.56831 L316.496 -2.56831 L316.496 60.1872 L-13.5036 60.1872 L-13.5036 -2.56831 Z" gXpos="159.763779527559" gYpos="1141.64724409449" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Don't be afraid to ask questions. Nobody else knows what they're doing either - they just won't admit it until third year."/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="3216.37795275591" OwnPage="10" ItemID="166511648" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Checklist"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="3851.65354330709" OwnPage="11" ItemID="166496848" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Wellbeing"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="579.291338582677" YPOS="3291.41102362205" OwnPage="10" ItemID="166485008" PTYPE="4" WIDTH="300" HEIGHT="428.58897637795" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.58888e-14 L300 428.588 L2.53665e-14 428.588 L0 0 Z" copath="M-13.5036 -19.2943 L316.496 -19.2943 L316.496 452.154 L-13.5036 452.154 L-13.5036 -19.2943 Z" gXpos="159.763779527559" gYpos="750.308661417324" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Try to check off as many of these as you can in the first term."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Join the Facebook group"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Say hi and get a laptop sticker at the Welcome Fair"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Sign up to the CSS Newsletter at "/>
+                <ITEXT FONT="Aller Bold" CH="cssbristol.co.uk/newsletter"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Get a bar crawl t-shirt"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Decide whether you prefer Cedar's or Taka Taka"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Come to a Tech Talk"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Wander around aimlessly on The Downs for a bit"/>
+                <para PARENT="Checkbox"/>
+                <ITEXT CH="Join a society that isn't CSS"/>
+                <trail PARENT="Checkbox"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="3899.33070866142" OwnPage="12" ItemID="166471920" PTYPE="2" WIDTH="266.141732283465" HEIGHT="178" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0513390687275203" LOCALSCY="0.0513390687275203" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/ctf.JPG" IRENDER="0" EMBEDDED="0" path="M0 0 L266.142 0 L266.142 178 L0 178 L0 0 Z" copath="M0 0 L266.142 0 L266.142 178 L0 178 L0 0 Z" gXpos="559.527559055118" gYpos="3899.33070866142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="825.669291338583" YPOS="3899.33070866142" OwnPage="12" ItemID="166460592" PTYPE="2" WIDTH="91.2944881889765" HEIGHT="138" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0854817305140229" LOCALSCY="0.0854817305140229" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/bar-crawl.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L91.2945 0 L91.2945 138 L0 138 L0 0 Z" copath="M0 0 L91.2945 0 L91.2945 138 L0 138 L0 0 Z" gXpos="825.669291338583" gYpos="3899.33070866142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="683.4" YPOS="4021.00787401575" OwnPage="12" ItemID="166449264" PTYPE="2" WIDTH="234.127559055118" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0492424242424242" LOCALSCY="0.0492424242424242" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/hackathon.JPG" IRENDER="0" EMBEDDED="0" path="M0 0 L234.128 0 L234.128 156 L0 156 L0 0 Z" copath="M0 0 L234.128 0 L234.128 156 L0 156 L0 0 Z" gXpos="683.4" gYpos="4021.00787401575" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="559.527559055118" YPOS="4020.64566929134" OwnPage="12" ItemID="166477584" PTYPE="2" WIDTH="246" HEIGHT="164.9968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0634603270745" LOCALSCY="0.0634603270745" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/bbq.jpg" PRFILE="Embedded RT_sRGB gamma sRGB(IEC61966 equivalent)" EPROF="Embedded RT_sRGB gamma sRGB(IEC61966 equivalent)" IRENDER="0" path="M0 0 L246 0 L246 164.997 L0 164.997 L0 0 Z" copath="M0 0 L246 0 L246 164.997 L0 164.997 L0 0 Z" gXpos="559.527559055118" gYpos="4020.64566929134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="683.4" YPOS="4158.32283464567" OwnPage="12" ItemID="169933024" PTYPE="2" WIDTH="234.472440944882" HEIGHT="137.002792528841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0568004944149423" LOCALSCY="0.0568004944149423" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/hash-code.JPG" IRENDER="0" EMBEDDED="0" path="M0 0 L234.472 0 L234.472 137.003 L0 137.003 L0 0 Z" copath="M0 0 L234.472 0 L234.472 137.003 L0 137.003 L0 0 Z" gXpos="683.4" gYpos="4158.32283464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="559.4" YPOS="4149.6111533736" OwnPage="12" ItemID="169918864" PTYPE="2" WIDTH="149.127559055118" HEIGHT="128" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0492307692307692" LOCALSCY="0.0492307692307692" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/codelounge.jpg" PRFILE="Embedded RT_sRGB gamma sRGB(IEC61966 equivalent)" EPROF="Embedded RT_sRGB gamma sRGB(IEC61966 equivalent)" IRENDER="0" path="M0 0 L149.128 0 L149.128 128 L0 128 L0 0 Z" copath="M0 0 L149.128 0 L149.128 128 L0 128 L0 0 Z" gXpos="559.4" gYpos="4149.6111533736" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="834.857480314961" YPOS="4131" OwnPage="12" ItemID="169924528" PTYPE="2" WIDTH="83" HEIGHT="54.6425196850414" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0447198275862069" LOCALSCY="0.0447198275862069" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/wellbeing.jpg" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" EMBEDDED="0" path="M0 0 L83 0 L83 54.6425 L0 54.6425 L0 0 Z" copath="M0 0 L83 0 L83 54.6425 L0 54.6425 L0 0 Z" gXpos="834.857480314961" gYpos="4131" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="739.443142510814" YPOS="4261.53601614498" OwnPage="12" ItemID="169916032" PTYPE="2" WIDTH="178.371030717533" HEIGHT="118.914020478355" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0344079920365611" LOCALSCY="0.0344079920365611" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/pub-quiz.JPG" IRENDER="0" EMBEDDED="0" path="M0 0 L178.371 0 L178.371 118.914 L0 118.914 L0 0 Z" copath="M0 0 L178.371 0 L178.371 118.914 L0 118.914 L0 0 Z" gXpos="739.443142510814" gYpos="4261.53601614498" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="559.363779527559" YPOS="4261.53601614498" OwnPage="12" ItemID="169913200" PTYPE="2" WIDTH="248.072440944882" HEIGHT="118.602844106314" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.155239324746484" LOCALSCY="0.155239324746484" LOCALX="-377.481672866701" LOCALY="2.57666670898538" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Assets/bar-crawl-2.jpg" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" path="M0 0 L248.072 0 L248.072 118.603 L0 118.603 L0 0 Z" copath="M0 0 L248.072 0 L248.072 118.603 L0 118.603 L0 0 Z" gXpos="559.363779527559" gYpos="4261.53601614498" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="160" YPOS="3914.02992125984" OwnPage="11" ItemID="166529408" PTYPE="4" WIDTH="300" HEIGHT="416.52125984252" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.51598e-14 L300 416.521 L2.53665e-14 416.521 L0 0 Z" copath="M-13.5036 -18.751 L316.496 -18.751 L316.496 439.422 L-13.5036 439.422 L-13.5036 -18.751 Z" gXpos="160" gYpos="737.651968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Starting at university can be hard work. Over the next few months, you may find yourself homesick, stressed or upset at some point. Make sure you take care of yourself: eat right; get enough sleep; do work early; talk to people. You will quickly find that many people are happy to help."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Your personal tutor is responsible for introducing you to the university and providing academic support. For most things, they are your first point of contact. "/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="There are a number of other contacts for welfare issues. You can talk to Bex Coveney in the MVB office, visit Student Health or Student Counselling. There are lots of services available to you: see "/>
+                <ITEXT FONT="Aller Bold" CH="cssbristol.co.uk/wellbeing"/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Most important of all: don't be afraid to ask for help. Seriously."/>
+                <trail PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="4486.92913385827" OwnPage="13" ItemID="166544208" PTYPE="4" WIDTH="339.527559055118" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" copath="M0 0 L339.528 0 L339.528 40 L0 40 L0 0 Z" gXpos="140" gYpos="675.275590551181" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Events"/>
+                <trail PARENT="Title"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="160" YPOS="4549.30551181102" OwnPage="13" ItemID="166523488" PTYPE="4" WIDTH="300" HEIGHT="416.52125984252" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300 2.51598e-14 L300 416.521 L2.53665e-14 416.521 L0 0 Z" copath="M-13.5036 -18.751 L316.496 -18.751 L316.496 439.422 L-13.5036 439.422 L-13.5036 -18.751 Z" gXpos="160" gYpos="737.651968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Here's what you have to look forward to you! Keep an eye on our Facebook page, website or newsletter to find out more details closer to the time."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Welcome Week"/>
+                <para PARENT="Heading 1"/>
+                <ITEXT CH="Monday"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="Welcome Drinks at The Berkeley"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Tuesday"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="School Lunch"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Thursday"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="Welcome Event"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Friday"/>
+                <para PARENT="Heading 2"/>
+                <ITEXT CH="Welcome Fair"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="September"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
